@@ -1,2 +1,2 @@
 # PT1
-programming technique 1 (C++)
+Programming Technique 1 (C++)
